@@ -14,7 +14,7 @@
         Green
       </button>
       <button
-        @click="setBackground('pinkandteal', 27, 2000)"
+        @click="setBackground('pinkandteal', 58, 3000)"
         :class="{ nav__current: seq === 'pinkandteal' }"
       >
         Pink & Teal
